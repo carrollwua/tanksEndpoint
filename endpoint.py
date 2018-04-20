@@ -16,7 +16,7 @@ from time import localtime, strftime
 
 #Globals and settings
 
-logging = True
+logging = False
 
 serialDevice = '/dev/ttyACM0'
 baudRate = 9600
